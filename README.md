@@ -15,6 +15,6 @@ Flask App Link:
 In Google Shell, create a basic Flask Application script using Tailwind to style the video.
 
 - In google shell terminal, install Azure CLI.
-- Use ``` az login -use-device-code```
+- Use ```az login -use-device-code```
 - Run ```az webapp up --resource-group <resource-group> --name <app-name> --runtime PYTHON:3.9 --sku B1``` and replace everything in the angle brackets.
 - After it is done being deployed, click on the URL from the shell terminal. 
