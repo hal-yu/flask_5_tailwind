@@ -11,7 +11,7 @@ Flask App Link:
 - On the left menu, under Security and Networking, select **Front Door and CDN** and create a new endponit with ```Service Type = Azure CDN``` and ```Query string caching behavior = Ignore Query String```.
 - Click on your hostname in your endpoint and open the endpoint hostname link. Go to your container and open the new container you created. Click on your video file link and copy paste the URL ito a new tab. Copy and paste everything after the ```/net``` after your endpoint hostname link and enter.
 
-## Flask App Dployment
+## Flask App Deployment
 In Google Shell, create a basic Flask Application script using Tailwind to style the video.
 
 - In google shell terminal, install Azure CLI.
